@@ -1,0 +1,2 @@
+secret: "FAKE_CONFIG_DB_PASSWORD_abc123"
+db_uri: "postgresql://user:password@localhost:5432/dbname"
